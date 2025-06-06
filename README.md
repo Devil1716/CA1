@@ -4,3 +4,4 @@ A financial dashboard project.
 ## Usage Instructions
 ## Contribution Guidelines
 ## License
+## Credits
