@@ -2,3 +2,4 @@
 A financial dashboard project.
 ## Setup Instructions
 ## Usage Instructions
+## Contribution Guidelines
