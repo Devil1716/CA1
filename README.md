@@ -6,3 +6,4 @@ A financial dashboard project.
 ## License
 ## Credits
 ## Changelog
+## FAQ
