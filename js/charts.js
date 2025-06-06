@@ -3,3 +3,4 @@
 // Pie chart code
 // function to update chart
 // chart data placeholder
+// chart legend
