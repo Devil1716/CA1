@@ -5,3 +5,4 @@
 // chart data placeholder
 // chart legend
 // chart title
+// chart description
